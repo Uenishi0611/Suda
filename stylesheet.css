@@ -1,0 +1,20 @@
+.title {
+    color: #02ccba;
+  }
+
+header p {
+        font-size: 27px;
+        color:darkcyan;
+        position:absolute;
+        top:45px;
+  }
+
+  .suda {
+    width: 700px;
+
+  }
+
+  .mail {
+    background-color: fuchsia;
+    display: inline-block;
+  }
